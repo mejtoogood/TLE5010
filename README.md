@@ -1,6 +1,6 @@
 # TLE5010 Magnetoresistive Angle Sensor 
 
-<a href="https://oshpark.com/shared_projects/dB6LPj8O">Order PCB from OSH Park</a> - $10.10 for three boards, free shipping worldwide</a>
+<a href="https://oshpark.com/shared_projects/dB6LPj8O">View / Order PCB from OSH Park</a> - $10.10 for three boards, free shipping worldwide</a>
 
 Infineon TLE5010 GMR Sensor <a href="https://www.digchip.com/datasheets/download_datasheet.php?id=2688384&part-number=TLE5010">datasheet</a>
 
