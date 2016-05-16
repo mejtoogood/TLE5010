@@ -1609,14 +1609,14 @@ einem neuen Namen ab.</description>
 <wire x1="43.18" y1="8.76" x2="45.72" y2="8.76" width="0.4064" layer="1"/>
 <contactref element="R5" pad="2"/>
 <contactref element="R6" pad="2"/>
-<wire x1="21.59" y1="2.54" x2="36.83" y2="2.54" width="0.3048" layer="1"/>
-<wire x1="36.83" y1="2.54" x2="43.18" y2="2.54" width="0.3048" layer="1"/>
-<wire x1="43.18" y1="2.54" x2="45.72" y2="2.54" width="0.3048" layer="1"/>
+<wire x1="21.59" y1="2.54" x2="35.56" y2="2.54" width="0.3048" layer="1"/>
+<wire x1="35.56" y1="2.54" x2="41.91" y2="2.54" width="0.3048" layer="1"/>
+<wire x1="41.91" y1="2.54" x2="45.72" y2="2.54" width="0.3048" layer="1"/>
 <wire x1="45.72" y1="2.54" x2="45.72" y2="8.76" width="0.3048" layer="1"/>
-<wire x1="36.982" y1="5.08" x2="36.83" y2="5.08" width="0.4064" layer="1"/>
-<wire x1="36.83" y1="5.08" x2="36.83" y2="2.54" width="0.4064" layer="1"/>
-<wire x1="43.332" y1="5.08" x2="43.18" y2="5.08" width="0.4064" layer="1"/>
-<wire x1="43.18" y1="5.08" x2="43.18" y2="2.54" width="0.4064" layer="1"/>
+<wire x1="43.332" y1="5.08" x2="41.91" y2="5.08" width="0.3048" layer="1"/>
+<wire x1="41.91" y1="5.08" x2="41.91" y2="2.54" width="0.3048" layer="1"/>
+<wire x1="36.982" y1="5.08" x2="35.56" y2="5.08" width="0.3048" layer="1"/>
+<wire x1="35.56" y1="5.08" x2="35.56" y2="2.54" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$7">
 <contactref element="R4" pad="2"/>
