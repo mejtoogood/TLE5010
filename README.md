@@ -1,6 +1,6 @@
 # TLE5010 Magnetoresistive Angle Sensor 
 
-Infineon TLE5010 GMR Sensor <a href="https://www.digchip.com/datasheets/download_datasheet.php?id=2688384&part-number=TLE5010">datasheet</a>
+Infineon TLE5010 GMR Sensor <a href="https://www.digchip.com/datasheets/download_datasheet.php?id=2688384&part-number=TLE5010">datasheet</a> - up to 16 bit angular resolution over SPI
 
 <img alt=“Top view of TLE5010 board” src=TLE5010%20-%20top.png>
 <img alt=“Top view of TLE5010 board” src=TLE5010%20-%20bottom.png>
